@@ -23,6 +23,12 @@ namespace BaiTapLon
             );
 
             routes.MapRoute(
+                name: "vnpay_return",
+                url: "vnpay_return",
+                defaults: new { controller = "Cart", action = "VnPayReturn", id = UrlParameter.Optional }
+            );
+
+            routes.MapRoute(
                 name: "Payment Cancel Nl",
                 url: "cancel-order",
                 defaults: new { controller = "Cart", action = "cancel_order", id = UrlParameter.Optional }
