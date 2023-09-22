@@ -49,3 +49,15 @@ D:\Thực tập công nghiệp\WebBanSach\hosting_App\CommomSentMail\obj\Debug\C
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.csproj.CopyComplete
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.dll
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.pdb
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\CommomSentMail.dll.config
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\CommomSentMail.dll
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\CommomSentMail.pdb
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.csproj.CopyComplete
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.dll
+C:\Users\Admin\source\repos\hosting_App\CommomSentMail\obj\Debug\CommomSentMail.pdb

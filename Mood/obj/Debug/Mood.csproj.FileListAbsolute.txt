@@ -132,3 +132,30 @@ D:\Thực tập công nghiệp\WebBanSach\hosting_App\Mood\obj\Debug\Mood.csproj
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\Mood\obj\Debug\Mood.csproj.CopyComplete
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\Mood\obj\Debug\Mood.dll
 D:\Thực tập công nghiệp\WebBanSach\hosting_App\Mood\obj\Debug\Mood.pdb
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\Mood.dll.config
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\Mood.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\Mood.pdb
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\X.PagedList.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\X.PagedList.Mvc.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\hosting_App\Mood\obj\Debug\Mood.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\hosting_App\Mood\obj\Debug\Mood.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\hosting_App\Mood\obj\Debug\Mood.csproj.CopyComplete
+C:\Users\Admin\source\repos\hosting_App\Mood\obj\Debug\Mood.dll
+C:\Users\Admin\source\repos\hosting_App\Mood\obj\Debug\Mood.pdb

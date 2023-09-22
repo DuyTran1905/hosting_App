@@ -1,4 +1,4 @@
-<%@ Page Language="C#" %>
+﻿<%@ Page Language="C#" %>
 <%@ Register Assembly="CKEditor.NET" Namespace="CKEditor.NET" TagPrefix="CKEditor" %>
 <%--
  * CKFinder
@@ -20,18 +20,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <script runat="server" language="C#">
 
-	// We are not using a code behind page here just for simplicity in the
-	// sample file. In this way we don't have to distribute a compiled DLL for
-	// this page. In real cases, the following code will instead be defined in
-	// a code behind file.
+    // We are not using a code behind page here just for simplicity in the
+    // sample file. In this way we don't have to distribute a compiled DLL for
+    // this page. In real cases, the following code will instead be defined in
+    // a code behind file.
 
-	protected override void OnLoad( EventArgs e )
-	{
-		CKFinder.FileBrowser _FileBrowser = new CKFinder.FileBrowser();
-		_FileBrowser.BasePath = "../../";
-		_FileBrowser.SetupCKEditor( CKEditor1 );
-	}
+    protected override void OnLoad( EventArgs e )
+    {
+        CKFinder.FileBrowser _FileBrowser = new CKFinder.FileBrowser();
+        _FileBrowser.BasePath = "../../";
+        //_FileBrowser.SetupCKEditor( CKEditor1 );
+    }
 
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
 </script>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">

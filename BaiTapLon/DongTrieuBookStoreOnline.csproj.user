@@ -13,7 +13,7 @@
     <ProjectView>ProjectFiles</ProjectView>
     <WebStackScaffolding_DbContextTypeFullName>Mood.EF2.QuanLySachDBContext</WebStackScaffolding_DbContextTypeFullName>
     <IISExpressSSLPort>44350</IISExpressSSLPort>
-    <NameOfLastUsedPublishProfile>deloy2</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Admin\source\repos\hosting_App\BaiTapLon\Properties\PublishProfiles\tranngocduy1-001-site1 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <Use64BitIISExpress />
     <IISExpressAnonymousAuthentication />
